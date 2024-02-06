@@ -1,0 +1,15 @@
+ img {
+ width:200px;
+ height:200px;
+ border: 4px groove white  ;
+}
+body{
+    background-image:url("https://th.bing.com/th/id/R.dbc266e46945a8109ddea565a3d81861?rik=QSWU8y3r7FlJJg&riu=http%3a%2f%2fwallpapercave.com%2fwp%2fofiddvK.jpg&ehk=KMCjM1hCMi%2b%2bkO%2fUsCGsHtosJrUVIGFQQbIgIqxcE%2bk%3d&risl=&pid=ImgRaw&r=0");
+    color: aliceblue;
+    text-align: center;
+    font-family: 'Protest Riot', sans-serif;
+}
+span {
+    padding-left: 50px;
+    padding-right: 50px;
+}
